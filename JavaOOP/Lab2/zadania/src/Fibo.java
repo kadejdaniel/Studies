@@ -1,5 +1,5 @@
 public class Fibo {
-
+//
     public static void fibonnaci(int n){
      int liczba = 1;
      int suma = 0;
