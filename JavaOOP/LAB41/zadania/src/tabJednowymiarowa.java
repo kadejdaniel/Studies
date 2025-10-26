@@ -16,7 +16,7 @@ public class tabJednowymiarowa {
         int columns = 10;
         int rows = array.length/columns;
 
-
+//
         double[] suma = new double[columns];
 
         for (int i = 0; i < array.length; i++) {

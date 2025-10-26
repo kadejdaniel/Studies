@@ -2,7 +2,7 @@ import java.util.Random;
 
 public class tabDwuwymiarowa {
 
-
+//
 
     public static void zad1() {
         int tabDwu[][] = new int[20][20];

@@ -1,5 +1,5 @@
 import java.util.Random;
-
+//
 public class Okrag {
     private int x;
     private int y;
